@@ -7,8 +7,6 @@ public class Test {
         System.out.println("Mein Test99");
         System.out.println("Mein Test3");
         System.out.println("Mein Test5");
-        System.out.println("Mein Test5");
-        System.out.println("Mein Test88");  
     }
     
 }

@@ -1,1 +1,1 @@
-Left Side
+LeftSide

@@ -4,6 +4,6 @@ public class Test {
 
     @org.junit.Test
     public void test() throws Exception {
-       System.out.println("NEW1"); 
+       System.out.println("RIGHT5"); 
 }
 }

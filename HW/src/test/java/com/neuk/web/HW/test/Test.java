@@ -4,5 +4,6 @@ public class Test {
 
     @org.junit.Test
     public void test() throws Exception {
-       System.out.println("MERGED"); 
+       System.out.println("NEW1"); 
+}
 }

@@ -4,7 +4,7 @@ public class Test {
 
     @org.junit.Test
     public void test() throws Exception {
-       System.out.println("Left2"); 
+       System.out.println("Left3"); 
     }
 
 }

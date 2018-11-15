@@ -4,4 +4,4 @@ public class Test {
 
     @org.junit.Test
     public void test() throws Exception {
-       System.out.println("MERGED10"); }
+       System.out.println("Right10"); }

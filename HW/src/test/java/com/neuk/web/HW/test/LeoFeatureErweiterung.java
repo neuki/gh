@@ -5,6 +5,7 @@ public class LeoFeatureErweiterung {
 	public static void main(String[] args) {
 		//Release fix
 		// HF1
+		// HF2
 	}
 
 }
